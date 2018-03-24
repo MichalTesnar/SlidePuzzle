@@ -3,6 +3,7 @@
 # http://inventwithpython.com/pygame
 # Released under a "Simplified BSD" license
 # Slightly modified for the purposes of PYTH01 course at FI MU
+# Slightly modified while finishing by me
 
 import pygame
 import sys
