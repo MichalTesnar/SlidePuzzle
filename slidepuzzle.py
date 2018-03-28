@@ -86,7 +86,6 @@ def check_for_quit():
                 terminate()
         elif event.type == pygame.MOUSEBUTTONUP:
             a,b = BUTTONS[0]
-            print(b.collidepoint(event.pos))
             if b.collidepoint(event.pos):
                 main()
 
@@ -218,7 +217,6 @@ def draw_message(message,x,y,text_color,bg_color):
     
 
 def main():
-    print("hello")
     global FPS_CLOCK, DISPLAY_SURFACE, BASIC_FONT, BUTTONS
     global RNDTRNCOUNTER, TURNCOUNTER, GAME_ON, BUTTONS
     global solved_board, operational_board, saved_board
