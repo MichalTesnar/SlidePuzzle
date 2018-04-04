@@ -1,4 +1,4 @@
 # SlidePuzzle
-Jednoduchá hra z semináře, vytvořená pomocí Pygame.
-
-Velmi kvalitní indeed.
+Tato hra má dozajista kvalitní content.
+Nic nezaručuju
+Michal Tesnar
